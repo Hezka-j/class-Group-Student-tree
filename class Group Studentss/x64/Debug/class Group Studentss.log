@@ -1,0 +1,4 @@
+﻿  class Group Studentss.cpp
+D:\Проекты\class Group Studentss\class Group Studentss.cpp(183,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Проекты\class Group Studentss\class Group Studentss.cpp(210,8): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  class Group Studentss.vcxproj -> D:\Проекты\class Group Studentss\x64\Debug\class Group Studentss.exe
